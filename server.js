@@ -7,9 +7,9 @@ var LabsApi = require("./labs_api/labsApi");
 //   res.sendFile(path.join(__dirname + "/client/build/index.html"));
 // });
 
-app.get('/', function(req, res) {
-  res.json({ text: "Pies!" });
-});
+// app.get('/', function(req, res) {
+//   res.json({ text: "Pies!" });
+// });
 
 app.use(express.static("client/build/"));
 
