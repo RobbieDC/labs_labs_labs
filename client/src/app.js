@@ -1,5 +1,5 @@
-var app = function(){
-  console.log("the begining has begun!")
+var app = function() {
+  console.log("the begining has ended!")
 };
 
 window.onload = app;
