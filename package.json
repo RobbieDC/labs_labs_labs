@@ -18,5 +18,8 @@
   "homepage": "https://github.com/RobbieDC/labs_labs_labs#readme",
   "dependencies": {
     "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2"
   }
 }
